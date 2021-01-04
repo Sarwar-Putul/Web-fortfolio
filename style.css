@@ -26,7 +26,7 @@ p{
 }
 .top-banner{
     
-    background-image: url(image/top-banner.png);
+    background-image: url(Image/top-banner.png);
     background-repeat: no-repeat;
 
 }
@@ -54,8 +54,8 @@ section{
     height: 80%;
     background-color: white;
 }
-.experiences-area{
-    background-image: url("image/exp-bg.png");
+.experience-area{
+    background-image: url("Image/exp-bg.png");
     background-repeat: no-repeat;
     background-position: left;
     
